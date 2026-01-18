@@ -1,0 +1,9 @@
+C:\Users\korkm\OneDrive\Masaüstü\C#EgitimKampi301_2\C#EgitimKampi301_2.PresentationLayer\bin\Debug\C#EgitimKampi301_2.PresentationLayer.exe.config
+C:\Users\korkm\OneDrive\Masaüstü\C#EgitimKampi301_2\C#EgitimKampi301_2.PresentationLayer\bin\Debug\C#EgitimKampi301_2.PresentationLayer.exe
+C:\Users\korkm\OneDrive\Masaüstü\C#EgitimKampi301_2\C#EgitimKampi301_2.PresentationLayer\bin\Debug\C#EgitimKampi301_2.PresentationLayer.pdb
+C:\Users\korkm\OneDrive\Masaüstü\C#EgitimKampi301_2\C#EgitimKampi301_2.PresentationLayer\obj\Debug\C#EgitimKampi301_2.PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\korkm\OneDrive\Masaüstü\C#EgitimKampi301_2\C#EgitimKampi301_2.PresentationLayer\obj\Debug\C_EgitimKampi301_2.PresentationLayer.Properties.Resources.resources
+C:\Users\korkm\OneDrive\Masaüstü\C#EgitimKampi301_2\C#EgitimKampi301_2.PresentationLayer\obj\Debug\C#EgitimKampi301_2.PresentationLayer.csproj.GenerateResource.cache
+C:\Users\korkm\OneDrive\Masaüstü\C#EgitimKampi301_2\C#EgitimKampi301_2.PresentationLayer\obj\Debug\C#EgitimKampi301_2.PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\korkm\OneDrive\Masaüstü\C#EgitimKampi301_2\C#EgitimKampi301_2.PresentationLayer\obj\Debug\C#EgitimKampi301_2.PresentationLayer.exe
+C:\Users\korkm\OneDrive\Masaüstü\C#EgitimKampi301_2\C#EgitimKampi301_2.PresentationLayer\obj\Debug\C#EgitimKampi301_2.PresentationLayer.pdb
